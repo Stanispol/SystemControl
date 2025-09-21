@@ -1,0 +1,21 @@
+﻿# .NET
+bin/
+obj/
+*.user
+*.swp
+*.suo
+*.vs/
+*.db
+
+# Node
+node_modules/
+dist/
+*.log
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
